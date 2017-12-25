@@ -1,6 +1,6 @@
 
 # 引数を受け取る
-# 2017/11/7 y.ikeda
+# 2017/11/7 yo16
 
 args1 = commandArgs(trailingOnly=TRUE)[1]
 args2 = commandArgs(trailingOnly=TRUE)[2]
